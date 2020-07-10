@@ -11,7 +11,7 @@ This playbook will pull the domain names and IPs from the threat intelligence th
 </a>
   
  # 
-Open your browser and ensure you are logged into your Azure Sentinel workspace. In separate tab, open the link to our playbook on the Arbala Security GitHub Repository:
+Open your browser and ensure you are logged into your Azure Sentinel workspace. In a separate tab, open the link to our playbook on the Arbala Security GitHub Repository:
 
 https://github.com/Arbala-Security/Guardicore-ThreatIntel
 
