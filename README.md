@@ -22,7 +22,7 @@ https://github.com/Arbala-Security/Guardicore-ThreatIntel
 
 From there, click the “Deploy to Azure” button at the bottom and it will bring you to the Custom Deployment Template.
 
-![Deploy](Images/deploy.png)
+![Deploy](Images/deploy3.png)
 
 In the **BASICS** section:  
 
