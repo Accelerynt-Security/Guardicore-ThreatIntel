@@ -1,10 +1,10 @@
-# Integrating Latest Guardicore Threat Intelligence into Azure tiIndicator
+# Integrating Guardicore Threat Intelligence into Azure tiIndicator
 
 Author: Arbala Security
 
 For any technical questions, please contact info@arbalasystems.com.
 
-This playbook will pull the domain names and IPs from the threat intelligence that Guardicore shares every Sunday. It will create Azure Sentinel Threat Intelligence Indicators with the information by posting to the tiIndicators collection.
+This playbook will pull the domain names and IPs from the threat intelligence that Guardicore shares every Sunday. It will create Azure Sentinel Threat Intelligence Indicators with the information by posting to the tiIndicators collection. This playbook is configured to run every Monday Morning at 6:00 AM EST.
 
 The Guardicore Cyber Threat Intelligence Service [Feed](https://threatintelligence.guardicore.com/download-guardicore-cyber-threat-intelligence-data) is part of the their [Cyber Threat Intelligence Platform](https://threatintelligence.guardicore.com/).
 
