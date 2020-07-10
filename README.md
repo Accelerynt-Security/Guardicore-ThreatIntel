@@ -71,8 +71,8 @@ You should see the that the “Create tiIndicator 2” box has updated and displ
 This process will not need to be repeated for the right hand branch. 
 
 # Developer's Note:
-The branching for the same outer loops is necessary because not all Guardicore domains and IPs are in a format Microsoft Graph will accept as valid. 
-The branching allows a domain name and its associated IPs to be ingested separately.
+The branching for the same outer loops is necessary because not all Guardicore domains and IP addresses are in a format Microsoft Graph will accept as valid. 
+The branching allows a domain name and its associated IP addresses to be ingested separately.
 This way, an invalid domain name will not negate its associated valid IP addresses, or vice versa.
 
 For any technical questions, please contact info@arbalasystems.com.
