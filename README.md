@@ -69,7 +69,6 @@ This process will not need to be repeated for the right hand branch.
 The branching for the same outer loops is necessary because not all Guardicore domains and ips are in a format Microsoft Graph will accept as valid. 
 The branching allows a domain name and it's associated ips to be ingested separately.
 This way, an invalid domain name will not negate its associated valid ip addresses, or vice versa.
-#
 
 For any technical questions, please contact info@arbalasystems.com.
 
